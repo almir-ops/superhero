@@ -1,0 +1,48 @@
+.example-container {
+  width: 100vw;
+  height: 100vh;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.example-sidenav-content {
+  display: flex;
+  height: 100px;
+  justify-content: start;
+}
+
+.example-sidenav {
+  padding: 20px;
+}
+
+.body-main{
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.card{
+  background-color: aliceblue;
+  height: 300px;
+  width: 200px;
+  padding: auto;
+  margin: 5px;
+}
+
+.image{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.legend{
+  padding: 20px;
+}
+
+.descricao{
+  margin-top: 10px;
+}
+.imgcard{
+  height: 100%;
+  width: 100%;
+}
